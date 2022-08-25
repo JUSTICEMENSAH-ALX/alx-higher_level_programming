@@ -10,7 +10,7 @@ Thank you for visiting my programming projects. The majority of the code was wri
 * [Credits](#credits)
 
 ## About
-This repository contains introductory projects for higher-level programming. Topics include:
+This repository contains introductory projects for alx-higher-level programming. Topics include:
 - Commenting code and following a coding style standard
 - Variables, data structures, operators, expressions, loops, nested loops
 - Conditional statements
@@ -25,7 +25,7 @@ This repository contains introductory projects for higher-level programming. Top
 and more!
 
 ## Requirements
-* Ubuntu 14.04 LTS
+* Ubuntu 20.04 LTS
 * Python 3.4
 * pip3 1.5
 * pep8 1.7
