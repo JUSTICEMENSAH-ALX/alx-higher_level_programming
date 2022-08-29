@@ -6,4 +6,4 @@ def new_in_list(my_list, idx, element):
         return my_list
     temp_list = list(my_list)
     temp_list[idx] = element
-    return
+    return temp_list
