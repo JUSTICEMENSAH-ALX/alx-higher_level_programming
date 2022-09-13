@@ -2,7 +2,7 @@
 """ Creating a square class """
 
 
-class square
+class Square:
    """ Defining a class square """
    def __init__(self, size=0):
        """ Initializing a square class
