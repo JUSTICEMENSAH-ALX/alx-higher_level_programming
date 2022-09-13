@@ -5,10 +5,10 @@
 
 
 class Square:
-    """Represent a Square."""
+    """Represent a square."""
 
     def _init_(self, size):
-        """Initialize a new square."""
+        """Initialize a new Square."""
 
         Args:
             size (init): the size of the new square.
