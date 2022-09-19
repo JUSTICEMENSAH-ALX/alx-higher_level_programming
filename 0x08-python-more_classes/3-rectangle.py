@@ -65,4 +65,4 @@ class Rectangle:
                 rectangle += "#"
             if column < self.__height - 1:
                 rectangle += "\n"
-        return (
+        return (rectangle)
