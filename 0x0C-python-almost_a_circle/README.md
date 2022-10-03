@@ -15,17 +15,24 @@ args/kwargs
 JSON and CSV serialization/deserialization
 Unittesting
 Tests ✔️
-tests/test_models: Folder containing the following independently-developed test files:
-test_base.py
-test_rectangle.py
-test_square.py
+tests/test_models:
+
+Folder containing the following independently-developed test files:
+1. test_base.py
+2. test_rectangle.py
+3. test_square.py
 Classes 🆑
 Base
-Represents the "base" class for all other classes in the project. Includes:
+Represents the "base" class for all other classes in the project.
+
+ Includes:
 
 Private class attribute __nb_objects = 0.
+
 Public instance attribute id.
+
 Class constructor def __init__(self, id=None):
+
 If id is None, increments __nb_objects and assigns its value to the public instance attribute id.
 Otherwise, sets the public instance attribute id to the provided id.
 Static method def to_json_string(list_dictionaries): that returns the JSON string serialization of a list of dictionaries.
